@@ -14,19 +14,7 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" preserveAspectRatio="none"><path d="M0,40 C300,0 900,80 1200,40 L1200,80 L0,80 Z" fill="#1e1b4b" opacity="0.4"/></svg>
 
-## 🛠️ Tech Stack
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" preserveAspectRatio="none"><path d="M0,40 C300,80 900,0 1200,40 L1200,80 L0,80 Z" fill="#1e1b4b" opacity="0.4"/></svg>
 
@@ -47,17 +35,6 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" preserveAspectRatio="none"><path d="M0,40 C300,0 900,80 1200,40 L1200,80 L0,80 Z" fill="#1e1b4b" opacity="0.4"/></svg>
 
-## 🚀 Featured Projects
-
-> 📌 *Update these with your actual pinned repos!*
-
-| 🗂️ Project | 📝 Description | 🔧 Stack |
-|---|---|---|
-| 🎯 **[Project One](https://github.com/lcysssio)** | Clean Java project showcasing OOP principles | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| 🎵 **[Project Two](https://github.com/lcysssio)** | A music-inspired utility or tool | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
-| 📚 **[Project Three](https://github.com/lcysssio)** | Study project — learning in public | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" preserveAspectRatio="none"><path d="M0,40 C300,80 900,0 1200,40 L1200,80 L0,80 Z" fill="#1e1b4b" opacity="0.4"/></svg>
 
 ## 📬 Let's Connect
 
