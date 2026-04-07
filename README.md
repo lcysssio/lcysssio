@@ -4,20 +4,13 @@
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-lcysssio-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lcysssio)
+[![Discord](https://img.shields.io/badge/Discord-lcysssio-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lcex.)
 [![Profile Views](https://komarev.com/ghpvc/?username=lcysssio&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)](https://github.com/lcysssio)
 
 </div>
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" preserveAspectRatio="none"><path d="M0,40 C300,80 900,0 1200,40 L1200,80 L0,80 Z" fill="#1e1b4b" opacity="0.4"/></svg>
 
-## 🙋 About Me
-
-- ☕ **Java** developer who turns caffeine into code
-- 📚 Currently deep in **studies** — always leveling up
-- 🎵 Music is my reset button — headphones always on
-- 🌙 Night owl coder with a taste for clean architecture
-- 💬 Hit me up on Discord if you want to collab or just vibe
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" preserveAspectRatio="none"><path d="M0,40 C300,0 900,80 1200,40 L1200,80 L0,80 Z" fill="#1e1b4b" opacity="0.4"/></svg>
 
@@ -70,7 +63,7 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Chat_with_me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lcysssio)
+[![Discord](https://img.shields.io/badge/Discord-Chat_with_me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lcex.)
 
 </div>
 
